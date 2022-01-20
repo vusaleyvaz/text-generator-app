@@ -17,7 +17,7 @@ For this project, I used Huggingface pre-trained models with language modeling h
 ## Web Application
 
 ### Requirements
-Below is the list of required packages that were used during building the application where version of Python is 3.8.5:
+Below is the list of required packages that were used during building the application where version of Python is 3.8.5:\
 • numpy == 1.19.2\
 • bokeh == 2.4.1\
 • tensorflow == 2.6.0\
@@ -35,7 +35,7 @@ Moreover, below is the list of jupyter packages:
 • nbconvert        : 6.0.7\
 • ipywidgets       : 7.6.3\
 • nbformat         : 5.1.2\
-• traitlets        : 5.0.5\
+• traitlets        : 5.0.5
 
 
 Application is single page web application built on Panel templates:
