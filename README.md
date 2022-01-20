@@ -13,3 +13,41 @@ For this project, I used Huggingface pre-trained models with language modeling h
 •	DistilGPT2 - 6-layer, 768-hidden, 12-heads, 82M parameters\
 •	GPT2 (small) - 12-layer, 768-hidden, 12-heads, 117M parameters\
 •	GPT2-medium - 24-layer, 1024-hidden, 16-heads, 345M parameters
+
+## Web Application
+
+### Requirements
+Below is the list of required packages that were used during building the application where version of Python is 3.8.5:
+• numpy == 1.19.2\
+• bokeh == 2.4.1\
+• tensorflow == 2.6.0\
+• transformers == 4.11.3\
+• panel == 0.12.4
+
+Moreover, below is the list of jupyter packages:
+• jupyter core     : 4.7.0\
+• jupyter-notebook : 6.2.0\
+• qtconsole        : 4.7.7\
+• ipython          : 7.19.0\
+• ipykernel        : 5.3.4\
+• jupyter client   : 6.1.7\
+• jupyter lab      : 2.2.6\
+• nbconvert        : 6.0.7\
+• ipywidgets       : 7.6.3\
+• nbformat         : 5.1.2\
+• traitlets        : 5.0.5\
+
+
+Application is single page web application built on Panel templates:
+
+<p align='center'>
+  <a href="#"><img src='https://raw.githubusercontent.com/Vusal123/sentiment_analysis/main/images/main_page.png' width="700" height="600"></a>
+</p>
+
+### Run on localhost
+
+After intstalling the required packages you just need to run all cells in the jupyter notebook
+
+### Project details
+
+All the details regarding the project (theoretical and practical part) can be found in below given document:
