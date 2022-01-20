@@ -41,7 +41,7 @@ Moreover, below is the list of jupyter packages:
 Application is single page web application built on Panel templates:
 
 <p align='center'>
-  <a href="#"><img src='https://raw.githubusercontent.com/Vusal123/sentiment_analysis/main/images/main_page.png' width="700" height="600"></a>
+  <a href="#"><img src='https://github.com/vusaleyvaz/text-generator-app/blob/d91e5d6ac8a9e982bd5a36a0fa23848ab2a4df86/images/application.png' width="900" height="600"></a>
 </p>
 
 ### Run on localhost
